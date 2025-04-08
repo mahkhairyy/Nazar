@@ -1,0 +1,21 @@
+👁️ About Nazar – The Watchful Eye of Online Safety
+Nazar (نظر) is an AI-powered platform designed to safeguard digital spaces by detecting and classifying toxic comments in Arabic, with a special focus on the Egyptian dialect. Inspired by the Arabic word "نظر" meaning "watchful eye," Nazar reflects vigilance, protection, and cultural awareness in maintaining respectful conversations online.
+
+At its core, Nazar leverages the power of transformer-based models like DistilBERT, fine-tuned on real-world toxic comment datasets. The system evaluates content based on linguistic and contextual cues to determine if a comment is toxic, clean, or in future updates—threatening, insulting, or obscene.
+
+🌐 Why Nazar?
+With the rise of digital communication, content moderation has become a vital necessity. Arabic-speaking communities face unique challenges due to dialect diversity and lack of robust NLP support. Nazar fills that gap with:
+
+✅ Accurate, context-aware analysis of Arabic comments
+
+💬 Support for both single comments and batch file uploads
+
+📊 Confidence-based results and visualization
+
+🧠 Ongoing learning from real-world interactions
+
+🎯 Our Mission
+To create a safer, more inclusive internet for Arabic users by providing intelligent, culturally aware moderation tools that promote respectful dialogue and trust.
+
+🛠️ Powered by AI, Built for Communities
+Nazar is more than just a toxic comment detector—it's a step toward responsible tech. Built with transparency and adaptability in mind, our platform is continuously improving with user feedback, dataset expansion, and advanced model tuning.
